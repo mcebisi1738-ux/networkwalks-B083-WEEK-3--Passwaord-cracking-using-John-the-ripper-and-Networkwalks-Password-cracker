@@ -1,0 +1,2 @@
+# networkwalks-B083-WEEK-3--Passwaord-cracking-using-John-the-ripper-and-Networkwalks-Password-cracker
+Week 3 cybersecurity internship project exploring password security: cracking hashed passwords using John the Ripper (dictionary, brute-force, hybrid attacks) and NetworkWalks Hash Calculator/Password Cracker. Demonstrates hash strength analysis, cracking methodology, and the importance of salting and strong password policies.
